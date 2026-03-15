@@ -14,11 +14,11 @@
 
 ## About Me
 
-- 🎓 CSE undergraduate at **GITAM University**
-- 💻 Interested in **Backend Engineering, Data Systems, and Operating Systems**
-- ⚙️ I enjoy building systems that combine **APIs, data processing, and system-level thinking**
-- 📚 Currently exploring **Distributed Systems, Backend System Design, Linux Internals, and Data Engineering**
-- 🌱 Building projects that are practical, technical, and recruiter-friendly
+- CSE undergraduate at **GITAM University**
+- Interested in **Backend Engineering, Data Systems, and Operating Systems**
+- I enjoy building systems that combine **APIs, data processing, and system-level thinking**
+- Currently exploring **Distributed Systems, Backend System Design, Linux Internals, and Data Engineering**
+- Building projects that are practical, technical, and recruiter-friendly
 
 ---
 

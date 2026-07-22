@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sai+Charan+%F0%9F%91%8B;Backend+%7C+Data+%7C+Systems+Enthusiast;Computer+Science+Student+(CSE+'28);Data+Systems+%26+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sai+Charan+%F0%9F%91%8B;Self-Hosting+%7C+Data+%7C+Systems+Enthusiast;Computer+Science+Student+(CSE+'28);Data+Systems+%26+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Self-Hosted Infra | Data | Systems</h3>

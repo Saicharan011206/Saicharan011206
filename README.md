@@ -1,13 +1,13 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sai+Charan+%F0%9F%91%8B;Backend+%7C+Data+%7C+Systems+Enthusiast;Computer+Science+Student+(CSE+'28);Building+APIs%2C+Data+Systems+%26+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sai+Charan+%F0%9F%91%8B;Backend+%7C+Data+%7C+Systems+Enthusiast;Computer+Science+Student+(CSE+'28);Data+Systems+%26+Real-World+Projects" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Backend | Data | Systems</h3>
+<h3 align="center">Self-Hosted Infra | Data | Systems</h3>
 
 <p align="center">
   Computer Science Student (CSE '28) at GITAM University <br>
-  Interested in Backend Engineering, Data Systems, and Operating Systems
+  Interested in Self-Hosted Infra, Data Systems, and Operating Systems
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ## About Me
 
 - CSE undergraduate at **GITAM University**
-- Interested in **Backend Engineering, Data Systems, and Operating Systems**
+- Interested in **Data Systems, and Operating Systems**
 - I enjoy building systems that combine **APIs, data processing, and system-level thinking**
 - Currently exploring **Distributed Systems, Backend System Design, Linux Internals, and Data Engineering**
 - Building projects that are practical, technical, and recruiter-friendly
